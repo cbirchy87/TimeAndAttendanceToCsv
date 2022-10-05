@@ -12,3 +12,4 @@ The csv is written to the same dir as the executing code.
 An example csv is also attached to the project.
 
 Support for this application HAS NOT been implied and will not be provide. This code is not production ready and is only shown as a possible example.
+By downloading or cloning you are in agreement to these terms.
