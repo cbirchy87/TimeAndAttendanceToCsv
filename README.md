@@ -11,4 +11,4 @@ The csv is written to the same dir as the executing code.
 
 An example csv is also attached to the project.
 
-No support on this applicaiotn has been suggested and will not be provide. This code is not production ready and is only shown as a possible example.
+Support for this application HAS NOT been implied and will not be provide. This code is not production ready and is only shown as a possible example.
