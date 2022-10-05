@@ -1,0 +1,4 @@
+staticData,employeeID,inout,eventTime
+pAT,10001,Clock in,09/26/2022 13:40:00
+pAT,10001,Clock in,09/26/2022 13:41:10
+pAT,10001,Clock out,09/26/2022 15:47:11
